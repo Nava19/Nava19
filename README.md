@@ -31,7 +31,7 @@
 </p>
 <p align="center">
   Email: <a href="mailto:asan.arta@gmzil.com">asan.arta@gmail.com</a><br>
-  LinkedIn: <a href="linkedin.com/in/tsiriniaina-asandratriniavo-81152023b">Tsiriniaina ASANDRATRINIAVO</a>
+  LinkedIn: <a href="linkedin.com/in/tsiriniaina-asandratriniavo-81152023b">Tsiriniaina ASANDRATRINIAVO</a><br>
   Facebook: <a href="https://www.facebook.com/tsiry.asandratriniavo">Tsiriniaina ASANDRATRINIAVO</a>
 </p>
 
